@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29318.209
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Angular8ASPNETCore3", "Angular8ASPNETCore3\Angular8ASPNETCore3.csproj", "{7B0D818A-D1EF-49AC-BE0A-3EF91D2853FD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7B0D818A-D1EF-49AC-BE0A-3EF91D2853FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B0D818A-D1EF-49AC-BE0A-3EF91D2853FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B0D818A-D1EF-49AC-BE0A-3EF91D2853FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B0D818A-D1EF-49AC-BE0A-3EF91D2853FD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3D377440-7E67-4367-802B-2594B4492A03}
+	EndGlobalSection
+EndGlobal
